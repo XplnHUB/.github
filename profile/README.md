@@ -36,26 +36,6 @@ A Python-based tool that helps users "see code clearly." Insight-Py focuses on p
 
 * **Features:** Code analysis, dependency visualization, and performance insights.
 
-### 4. DocSnap
-
-A utility for creating quick and easy documentation for your projects. DocSnap automates the process of generating documentation from your codebase, ensuring your projects are always well-documented.
-
-* **Technology:** JavaScript
-
-* **Purpose:** To simplify the documentation process and encourage developers to maintain up-to-date project documentation.
-
-* **Features:** Automated documentation generation, customizable templates, and support for various code formats.
-
-### 5. DevTriage
-
-A collaborative issue-triage tool for development teams. DevTriage helps teams streamline their workflow by providing a structured way to sort, prioritize, and assign issues.
-
-* **Technology:** \[To be updated\]
-
-* **Purpose:** To improve team collaboration and efficiency in managing project issues.
-
-* **Features:** Customizable issue labels, priority ranking, and team-based assignment.
-
 ## Join Us
 
 We're always looking for contributors to help us build and improve our projects. Whether you're a seasoned developer or a student looking to gain experience, we welcome your contributions. Check out our repositories and feel free to open issues or submit pull requests.

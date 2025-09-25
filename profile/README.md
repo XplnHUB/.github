@@ -3,9 +3,7 @@
 Welcome to **XplnHUB**, where we believe technology should be understandable and accessible to everyone. Our mission is to build tools and resources that simplify complex concepts, empowering developers and students to learn, create, and innovate with confidence.
 
 ## Our Repositories
-
-Here’s a snapshot of some of our key projects:
-
+---
 ### 1. CodeNarrator
 
 **Technology:** JavaScript

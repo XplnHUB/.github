@@ -43,6 +43,3 @@ We’re always looking for contributors to help us build and improve our project
 * **Contact:** Questions? Open an issue in the `.github` repository.
 
 Thank you for your interest in **XplnHUB**! We’re excited to create, learn, and innovate together.
-
-
-If you want, I can also create a **short, catchy version** for your GitHub homepage README that immediately grabs attention and encourages contributions—it’ll be perfect for visitors scanning your org page. Do you want me to do that?
